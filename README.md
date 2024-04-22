@@ -1,2 +1,2 @@
 # chatbot-ricette
-proviamo a far cucinare quesy
+proviamo a far cucinare queste macchine
